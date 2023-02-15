@@ -2,10 +2,12 @@
 
 # telegram-sharecaster-bot
 
-**Expand Farcaster deeplinks into Sharecaster links with previews.** Send a Farcaster deeplink and the bot will reply with a Sharecaster link. That's it.
+**Expand Farcaster deeplinks into Sharecaster links with previews.** Send a farcaster:// deeplink and the bot will reply with a Sharecaster link. That's it.
+
+> **Note**
+> This bot is automatically [deployed to Railway](https://railway.app?referralCode=dev) from the `main` branch.
 
 ![PixelSnap 2023-02-15 at 10 30 32 PM@2x](https://user-images.githubusercontent.com/6843656/219172366-631d20a4-b186-412e-84be-e75163124087.png)
-
 
 ---
 
